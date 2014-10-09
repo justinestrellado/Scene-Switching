@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# mainscene
+#
+
+projectname: mainscene
+vendorid: com.justinestrellado.example
+mainmodule: com.justinestrellado.example.mainscene
